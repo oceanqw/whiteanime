@@ -1,1 +1,8 @@
-[{"title":"Your Lie in April","id":"your-lie-in-april","cover":"assets/your-lie-in-april.jpg"}]
+[
+  {
+    "id": "yourlie",
+    "title": "Your Lie in April",
+    "description": "Müzik ve aşk dolu duygusal bir hikaye.",
+    "poster": "assets/poster/yourlie.jpg"
+  }
+]
